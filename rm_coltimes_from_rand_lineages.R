@@ -9,7 +9,7 @@
 #' @return A modified list of simulated datasets with adjusted colonization times.
 #'
 
-# Load necessary library
+#' Load necessary library
 library(ape)
 library(DAISIE)
 library(DDD)
