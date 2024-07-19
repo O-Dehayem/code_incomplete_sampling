@@ -1,4 +1,4 @@
-#' Modify Simulated Datasets by Adjusting Colonization Times
+#' Remove Colonization Times from Rich Lineages in Simulated Datasets
 #'
 #' This function modifies a list of simulated datasets by adjusting colonization times
 #' for lineages that exceed a specified richness threshold.
