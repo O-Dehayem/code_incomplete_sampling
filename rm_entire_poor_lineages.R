@@ -1,1 +1,8 @@
+#' This function modifies a dataset of simulated islands by removing some entire poor lineages.
+
+ 
+#' Load necessary packages
+library(ape)
+library(DAISIE)
+library(DDD)
 
