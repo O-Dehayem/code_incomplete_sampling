@@ -1,4 +1,4 @@
-#' This function modifies a dataset of simulated islands by oldest species from rich lineages.
+#' This function modifies a dataset of simulated islands by removing the oldest species from rich lineages.
 
  
 #' Load necessary packages
