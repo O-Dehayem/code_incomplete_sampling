@@ -1,4 +1,4 @@
-#' This function modifies a dataset of simulated islands by oldest species from rand lineages.
+#' This function modifies a dataset of simulated islands by removing the oldest species from random lineages.
 
  
 #' Load necessary packages
