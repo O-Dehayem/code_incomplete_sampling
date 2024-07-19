@@ -1,4 +1,4 @@
-#' Remove Colonization Times from random Lineages in Simulated Datasets
+#' Remove Colonization Times from Random Lineages in Simulated Datasets
 #'
 #' This function modifies a list of simulated datasets by removing outgroup species
 #' from random lineages based on specified conditions.
