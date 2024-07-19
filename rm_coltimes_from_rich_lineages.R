@@ -8,6 +8,8 @@
 #' @param data_sims_G A list of simulated datasets.
 #' @return A modified list of simulated datasets with adjusted colonization times.
 #'
+
+
 remove_coltimes_from_rich <- function(rich_lineage_threshold, percentage_coltimes_to_remove, data_sims_G) {
 
   # Initialize an empty list to store modified datasets
