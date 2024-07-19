@@ -8,7 +8,7 @@
 #' @param data_sims_G A list of simulated datasets.
 #' @return A modified list of simulated datasets with adjusted colonization times.
 #'
-# Load necessary library
+#' Load necessary library
 library(ape)
 library(DAISIE)
 library(DDD)
