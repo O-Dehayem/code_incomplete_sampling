@@ -1,5 +1,9 @@
-#' This function modifies a dataset of simulated islands by removing the youngest species from poor lineages.
-
+#' This function modifies a list of simulated datasets by removing the youngest species
+#' from lineages that fall below a specified richness threshold.
+#'
+#' @param rich_lineage_threshold The threshold for richness of lineages.
+#' @param percentage_spec_to_remove Percentage of species to remove based on total species.
+#' @param data_sims_G A list of simulated datasets.
  
 #' Load necessary packages
 library(ape)
