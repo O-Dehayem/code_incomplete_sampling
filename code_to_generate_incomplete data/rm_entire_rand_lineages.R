@@ -6,11 +6,6 @@
 #' @param data_sims_G A list of simulated datasets.
 #'
 
- 
-#' Load necessary packages
-library(ape)
-library(DAISIE)
-library(DDD)
 
 
 
