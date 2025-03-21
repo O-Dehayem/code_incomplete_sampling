@@ -6,13 +6,6 @@
 #' @param data_sims_G A list of simulated datasets.
 
 
-
-#' Load necessary packages
-library(ape)
-library(DAISIE)
-library(DDD)
-
-
 # Define the function remove_oldest_spec_from_poor
 remove_oldest_spec_from_poor <- function(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, data_sims_G)
 {
