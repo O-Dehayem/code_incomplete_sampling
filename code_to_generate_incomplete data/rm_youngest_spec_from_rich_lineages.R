@@ -5,11 +5,6 @@
 #' @param percentage_spec_to_remove Percentage of species to remove based on total species.
 #' @param data_sims_G A list of simulated datasets.
  
-#' Load necessary packages
-library(ape)
-library(DAISIE)
-library(DDD)
-
 
 
 remove_youngest_spec_from_rich_lineages <- function(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, data_sims_G)
