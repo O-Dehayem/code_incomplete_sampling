@@ -6,11 +6,6 @@
 #' @param data_sims_G A list of simulated datasets.
 #'
  
-#' Load necessary packages
-library(ape)
-library(DAISIE)
-library(DDD)
-
 
 
 remove_entire_rich_lineages <- function(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, data_sims_G)
